@@ -17,7 +17,7 @@ A aplicação se conecta a uma API (<a href="https://gutendex.com/">Gutendex</a>
 Note: tenha um banco de dados PostgreSQL para guardar as informações que viram da API. Você pode ajustar a conexão com o banco de dados no arquivo '_application.properties_' da pasta '_resources_'.
 
 ```shell
-git clone 
+git clone https://github.com/Bruno-PSantos/ChallengeAlura-LiterAlura.git
 ```
 
 ## Funcionalidades
